@@ -1,4 +1,4 @@
-package data_science.data_science;
+package mysql_access;
 
 /**
  * Hello world!
